@@ -57,9 +57,9 @@ The following 10 patient IDs were excluded due to data quality issues:
 
 ### Directory Configuration
 ```bash
-export nnUNet_raw="/mnt/data/user_data/farshad/nnUnet/nnUNet_raw_data"
-export nnUNet_preprocessed="/mnt/data/user_data/farshad/nnUnet/nnUNet_preprocessed"
-export nnUNet_results="/mnt/data/user_data/farshad/nnUnet/nnUNet_results"
+export nnUNet_raw="/nnUnet/nnUNet_raw_data"
+export nnUNet_preprocessed="nnUnet/nnUNet_preprocessed"
+export nnUNet_results="/nnUnet/nnUNet_results"
 ```
 
 ### Dataset Preparation
