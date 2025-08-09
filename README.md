@@ -1,4 +1,4 @@
-# 🫁 Lung Tumor Segmentation using nnU-Net v2
+# Lung Tumor Segmentation using nnU-Net v2
 
 Advanced automated lung tumor segmentation for Non-Small Cell Lung Cancer (NSCLC) patients using the state-of-the-art nnU-Net v2 framework.
 
